@@ -11,8 +11,9 @@ This project would allow me to further my skills as a threat hunter/researcher b
 - have a virtual enterprise environment with:
    -  logging
    -  security features
-      - EDR
-      - SEIM  
+      - Wazuh
+      - Elastic
+      - Security Onion 
    -  Simulate an attack based on a specific APT by using their TTPs as well as the deployment of:
    -  malware
    -  backdoors
