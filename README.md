@@ -11,7 +11,9 @@ This provides further learning opportunities for myself as I have not created vu
 - the setup could be automated (requires learning ansible)
 - targets are running windows
 
-# Project Mindmap (image + outline)
+# Project Mindmap (image + outline) 
+Mindmap Link: https://drive.google.com/file/d/1g7jFDOtJWtXNKtvjue2bA-jywMf6Pza4/view?usp=sharing
+
 ![image](https://github.com/jude-lindale/Capstone-Project/assets/70959569/1c396783-9903-42a0-bcab-2c7cbf184789)
 
      Eth-Hack II targets
