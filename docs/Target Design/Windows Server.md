@@ -1,1 +1,10 @@
-
+- Windows 10 webserver
+- 64 bit
+- 2 CPUs
+- 4 GB memory
+- 32 GB hard disk
+-  webserver with user login info
+- Vuln within web server allowing admin access
+    - Vulnerability yet to be determaned
+- Webserver is used to get to windows 10 target
+    - SSH
