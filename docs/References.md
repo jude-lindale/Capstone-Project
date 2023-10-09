@@ -16,7 +16,7 @@ Citation
 |   	| Reference for creating and structuring a hacking lab  	|   	
 |    	| [Building a Secure Hacking Lab in a Small University: Fetter A, Chowdhury M and Latif S. (2021). Raspberry Pis for Network Security 2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME). 10.1109/ICECCME52200.2021.9591114. 978-1-6654-1262-9. (1-6).](https://dl-acm-org.cobalt.champlain.edu/doi/10.1145/3059009.3072982)|   	
 |   	| Reference for creating and structuring a hacking lab 	| 
-|  7 	| [Ansible Documentation](https://learning.oreilly.com/library/view/mastering-ansible/9781789951547/](https://docs.ansible.com/ansible/latest/os_guide/windows_faq.html#windows-faq-ansible)| 
+|  7 	| [Ansible Documentation](https://docs.ansible.com/ansible/latest/os_guide/windows_faq.html#windows-faq-ansible)| 
 |   	| Learn asible 	| 
 |  8 	| [Ansible Playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax)| 
 |   	|  Learn asible 	| 
