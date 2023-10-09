@@ -20,7 +20,5 @@ Citation
 |   	| Learn asible 	| 
 |  8 	| [Ansible Playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax)| 
 |   	|  Learn asible 	| 
-|   9	| [Implementing DevOps with Ansible 2 By Author:Jonathan McAllister Publisher:Packt Publishing July 2017](https://learning.oreilly.com/library/view/implementing-devops-with/9781787120532/) 	| 
-|   	|  DevOps Ansible	| 
-|  10 	| [Infrastructure as Code, 2nd Edition By Author:Kief Morris Publisher:O'Reilly Media, Inc. December 2020](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) 	| 
+|  9	| [Infrastructure as Code, 2nd Edition By Author:Kief Morris Publisher:O'Reilly Media, Inc. December 2020](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) 	| 
 |   	| automate infrastruture with code 	| 
