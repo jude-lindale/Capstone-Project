@@ -1,46 +1,47 @@
 Citation
 
-[How to Create a Virtual Hacking Lab](https://www.stationx.net/how-to-create-a-virtual-hacking-lab/) 
+### Hacking Environment Creation
+[How to Create a Virtual Hacking Lab](https://www.stationx.net/how-to-create-a-virtual-hacking-lab/)     
 
-    Reference for creating and structuring a hacking lab  
-    
 [Creating Vulnerable Machines](https://kavigihan.medium.com/creating-vulnerable-machines-beginner-guide-fbddc835949d)
 
-    Reference for creating vulnerable targets 
-    
-[SecGen](https://github.com/cliffe/SecGen/) 
+[Creating a Vulnerable Machine](https://micahvandeusen.com/creating-a-vulnerable-machine/?source=post_page-----fbddc835949d--------------------------------)
 
-    possinble tool to use 
-   
+[Building Vulnerable Machines: Part 1 — An Easy OSCP-like Machine](https://donavan.sg/blog/index.php/2019/03/28/building-vulnerable-machines-part-1-an-easy-oscp-like-machine/)
+
+[Building Vulnerable Machines: Part 2 — A TORMENT of a Journey](https://donavan.sg/blog/index.php/2019/04/06/building-vulnerable-machines-part-2-a-torment-of-a-journey/)
+
+[Building Vulnerable Machines: Part 3 — JOY is More Than One (Machine)](https://donavan.sg/blog/index.php/2019/05/14/building-vulnerable-machines-part-3-joy-is-more-than-one-machine/)
+
+### Possible tools
+[SecGen](https://github.com/cliffe/SecGen/)
+
 [Use SecGen to Generate a Random Vulnerable Machine](https://null-byte.wonderhowto.com/how-to/use-secgen-generate-random-vulnerable-machine-0179567/) 
-   
-    use of tool 
-   
-[Design of virtual labs for an ethical hacking course: Lotfy M. (2021). Journal of Computing Sciences in Colleges. 37:2. (80-88). Online publication date: 1-Oct-2021.](https://dl-acm-org.cobalt.champlain.edu/doi/10.5555/3417608.3417611) 
 
-    Reference for creating and structuring a hacking lab  	   	
+[vulhub](https://github.com/vulhub/vulhub/tree/master)
 
-[Building a Secure Hacking Lab in a Small University: Fetter A, Chowdhury M and Latif S. (2021). Raspberry Pis for Network Security 2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME). 10.1109/ICECCME52200.2021.9591114. 978-1-6654-1262-9. (1-6).](https://dl-acm-org.cobalt.champlain.edu/doi/10.1145/3059009.3072982)   	
+### Automation  	    
+[Ansible Documentation](https://docs.ansible.com/ansible/latest/os_guide/windows_faq.html#windows-faq-ansible)   
 
-    Reference for creating and structuring a hacking lab 	
-    
-[Ansible Documentation](https://docs.ansible.com/ansible/latest/os_guide/windows_faq.html#windows-faq-ansible)  
-
-    Learn asible 	 
-    
 [Ansible Playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax) 
 
-    Learn asible 	 
-    
 [Ansible for Real-Life Automation, Gineesh Madapparambath, Published by Packt Publishing, Ansible](https://learning.oreilly.com/library/view/ansible-for-real-life/9781803235417/) 
-
-    automate infrastruture with code 	 
 
 [Windows Server 2019 Automation with PowerShell Cookbook - Third Edition, By Thomas Lee, PUBLICATION DATE:February 2019, PUBLISHED BY:Packt Publishing](https://learning.oreilly.com/library/view/windows-server-2019/9781789808537/)
 
-    Automating Windows Server 
-
   [PowerShell: Automating Administrative Tasks, By Michael Shepard, Chendrayan Venkatesan, Sherif Talaat, Brenton J.W. Blawat, PUBLICATION DATE:February 2017, PUBLISHED BY:Packt Publishin](https://learning.oreilly.com/library/view/powershell-automating-administrative/9781787123755/)
 
-    Automating Windows with powershell
+### Vulnerabilites
+[exploitdb](https://www.exploit-db.com/)
+
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources?source=post_page-----fbddc835949d--------------------------------)
+
+[Docker-Credential-Wincred.exe - Privilege Escalation (Metasploit)](https://www.exploit-db.com/exploits/48388)
+
+[Apache ActiveMQ 5.x-5.11.1 - Directory Traversal Shell Upload (Metasploit)](https://www.exploit-db.com/exploits/48181)
+
+### Useful Insight
+[HackTricks](https://book.hacktricks.xyz/welcome/readme)
+
+[CTF Series : Vulnerable Machines](https://bitvijays.github.io/LFC-VulnerableMachines.html)
 
