@@ -6,7 +6,7 @@
 - Normal Privilege user (admin user on webserver)
 - Admin user
 - vulnerability to gain admin access
-    - GitLab 13.10.2 - Remote Code Execution (RCE) (Unauthenticated) https://www.exploit-db.com/exploits/50532
+    - vulnerability to get unprived access
     - Admin through windows privilege escalation vuln
 - Windows 10 used to get access to AD server
 - SSH
