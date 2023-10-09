@@ -36,10 +36,6 @@ Citation
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources?source=post_page-----fbddc835949d--------------------------------)
 
-[Docker-Credential-Wincred.exe - Privilege Escalation (Metasploit)](https://www.exploit-db.com/exploits/48388)
-
-[Apache ActiveMQ 5.x-5.11.1 - Directory Traversal Shell Upload (Metasploit)](https://www.exploit-db.com/exploits/48181)
-
 ### Useful Insight
 [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 
