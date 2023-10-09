@@ -18,5 +18,5 @@ Citation
 |   	| Learn asible 	| 
 |  7 	| [Ansible Playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax)| 
 |   	|  Learn asible 	| 
-|  8	| [Infrastructure as Code, 2nd Edition By Author:Kief Morris Publisher:O'Reilly Media, Inc. December 2020](https://learning.oreilly.com/library/view/infrastructure-as-code/9781098114664/) 	| 
+|  8	| [Ansible for Real-Life Automation, Gineesh Madapparambath, Published by Packt Publishing, Ansible](https://learning.oreilly.com/library/view/ansible-for-real-life/9781803235417/)| 
 |   	| automate infrastruture with code 	| 
