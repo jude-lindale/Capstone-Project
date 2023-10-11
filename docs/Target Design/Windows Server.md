@@ -1,7 +1,7 @@
 - Windows 10 webserver
 - 64 bit
 - 2 CPUs
-- 32 GB memory
+- 4 GB memory
 - 60 GB hard disk
 -  webserver with user login info
 - Vuln within web server allowing admin access
