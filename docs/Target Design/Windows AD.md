@@ -1,7 +1,7 @@
 - Windows 2019 Server
 - 64 Bit
 - 2 CPUs
-- 4 GB memory
+- 32 GB memory
 - 60 GB hard disk
 - vulnerability to gain access to environment
     - Vulnerability yet to be determaned
