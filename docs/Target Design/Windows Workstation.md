@@ -1,7 +1,7 @@
 - Windows 10
 - 64 Bit
 - 2 CPUs
-- 32 GB memory
+- 4 GB memory
 - 60 GB hard disk
 - Normal Privilege user (admin user on webserver)
 - Admin user
