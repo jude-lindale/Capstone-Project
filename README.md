@@ -5,11 +5,10 @@ This project is to buikd targets for eth-hack students at Champlain College.
 This provides further learning opportunities for myself as I have not created vulnerable targets before as well as providing challenges for furture eth-hack students.
 
 ## Features/Objectives
-- Creation of tragets to be used
+- Creation of windows tragets to be used
 - making sure they are attackable
 - they are easy to reset
 - the setup could be automated (requires learning ansible)
-- targets are running windows
 
 # Project Mindmap (image + outline) 
 Mindmap Link: https://drive.google.com/file/d/1g7jFDOtJWtXNKtvjue2bA-jywMf6Pza4/view?usp=sharing
