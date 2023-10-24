@@ -1,5 +1,5 @@
 # Eth-Hack Lab Creation
-This project is to create targets for eth-hack II students to take on and are going to be used within those classes. 
+This project is to buikd targets for eth-hack students at Champlain College. 
 
 ## Why
 This provides further learning opportunities for myself as I have not created vulnerable targets before as well as providing challenges for furture eth-hack students.
