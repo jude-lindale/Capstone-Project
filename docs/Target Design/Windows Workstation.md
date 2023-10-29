@@ -10,3 +10,26 @@
     - Admin through windows privilege escalation vuln
 - Windows 10 used to get access to AD server
 - SSH
+- Vulnerability/Exploitation
+  - Cacti 1.2
+      - MySQL
+      - PHP
+      - RRDTool
+      - net-snmp
+      - webserver
+          - php support like apache
+      - Cacti 1.2.24 - Authenticated command injection when using SNMP options (CVE-2023-39362)
+          - https://www.exploit-db.com/exploits/51740
+      - Cacti v1.2.22 - Remote Command Execution (RCE) (CVE-2022-46169)
+          - https://www.exploit-db.com/exploits/51166
+      -  Cacti 1.2.12 - 'filter' SQL Injection (CVE-2020-14295)
+          - https://www.exploit-db.com/exploits/49810
+      - Cacti 1.2.8 - Remote Code Execution 
+          - https://www.exploit-db.com/exploits/48128
+      - Cacti 1.2.8 - Authenticated Remote Code Execution (CVE-2020-8813)
+          - https://www.exploit-db.com/exploits/48144
+      - Cacti 1.2.8 - Unauthenticated Remote Code Execution (CVE-2020-8813) 
+          - https://www.exploit-db.com/exploits/48145
+      - Cacti Superlinks Plugin 1.4-2 - SQL Injection (CVE-2014-4644)
+          - https://www.exploit-db.com/exploits/33809           
+        
