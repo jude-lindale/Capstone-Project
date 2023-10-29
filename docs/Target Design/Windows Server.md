@@ -8,3 +8,6 @@
     - Vulnerability yet to be determaned
 - Webserver is used to get to windows 10 target
     - SSH
+- Vulnerabulity/exploit
+    - Wordpress
+        -  
