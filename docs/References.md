@@ -41,3 +41,8 @@ Citation
 
 [CTF Series : Vulnerable Machines](https://bitvijays.github.io/LFC-VulnerableMachines.html)
 
+### Installation 
+[XAMPP And WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-create-a-local-wordpress-site-using-xampp/)
+[XAMPP And WordPress](https://themeisle.com/blog/install-xampp-and-wordpress-locally/#gref)
+[WordPress](https://www.makeuseof.com/install-wordpress-locally-on-windows/)
+[WAMP](https://www.makeuseof.com/tag/how-to-set-up-your-own-wampserver/)
