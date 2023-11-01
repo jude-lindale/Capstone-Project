@@ -31,6 +31,10 @@ Citation
 
   [PowerShell: Automating Administrative Tasks, By Michael Shepard, Chendrayan Venkatesan, Sherif Talaat, Brenton J.W. Blawat, PUBLICATION DATE:February 2017, PUBLISHED BY:Packt Publishin](https://learning.oreilly.com/library/view/powershell-automating-administrative/9781787123755/)
 
+[Ansible Tech journal 1](https://github.com/jude-lindale/Wiki/wiki/Ansible)
+
+[Ansible Tech journal 2](https://github.com/jude-lindale/Wiki/wiki/Ansible-Pt.2-Windows)
+
 ### Vulnerabilites
 [exploitdb](https://www.exploit-db.com/)
 
