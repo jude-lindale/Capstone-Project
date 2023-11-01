@@ -10,4 +10,4 @@
     - SSH
 - Vulnerabulity/exploit
     - Wordpress
-        -  
+        -  https://www.exploit-db.com/search?text=Wordpress&verified=true
