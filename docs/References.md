@@ -43,6 +43,13 @@ Citation
 
 ### Installation 
 [XAMPP And WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-create-a-local-wordpress-site-using-xampp/)
+
 [XAMPP And WordPress](https://themeisle.com/blog/install-xampp-and-wordpress-locally/#gref)
+
 [WordPress](https://www.makeuseof.com/install-wordpress-locally-on-windows/)
+
 [WAMP](https://www.makeuseof.com/tag/how-to-set-up-your-own-wampserver/)
+
+[WordPress](https://www.geeksforgeeks.org/installation-of-wordpress-on-windows/)
+
+[WordPress](https://ivanblagojevic.com/how-to-install-wordpress-on-windows-10-localhost/)
